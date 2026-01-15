@@ -1,0 +1,3817 @@
+{
+  "2009-10-10": {
+    "New York": {
+      "flu_cases": 31,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-10-17": {
+    "New York": {
+      "flu_cases": 19,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-10-24": {
+    "New York": {
+      "flu_cases": 47,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-10-31": {
+    "New York": {
+      "flu_cases": 66,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-11-07": {
+    "New York": {
+      "flu_cases": 65,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-11-14": {
+    "New York": {
+      "flu_cases": 180,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-11-21": {
+    "New York": {
+      "flu_cases": 150,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-11-28": {
+    "New York": {
+      "flu_cases": 113,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-12-05": {
+    "New York": {
+      "flu_cases": 88,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-12-12": {
+    "New York": {
+      "flu_cases": 61,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-12-19": {
+    "New York": {
+      "flu_cases": 58,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2009-12-26": {
+    "New York": {
+      "flu_cases": 40,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-01-02": {
+    "New York": {
+      "flu_cases": 31,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-01-09": {
+    "New York": {
+      "flu_cases": 27,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-01-16": {
+    "New York": {
+      "flu_cases": 28,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-01-23": {
+    "New York": {
+      "flu_cases": 22,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-01-30": {
+    "New York": {
+      "flu_cases": 19,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-02-06": {
+    "New York": {
+      "flu_cases": 12,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-02-13": {
+    "New York": {
+      "flu_cases": 14,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-02-20": {
+    "New York": {
+      "flu_cases": 12,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-02-27": {
+    "New York": {
+      "flu_cases": 13,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-03-06": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-03-13": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-03-20": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-03-27": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-04-03": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-04-10": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-04-17": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-04-24": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-05-01": {
+    "New York": {
+      "flu_cases": 33,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-05-08": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-05-15": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-05-22": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-10-09": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-10-16": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-10-23": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-10-30": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-11-06": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-11-13": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-11-20": {
+    "New York": {
+      "flu_cases": 15,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-11-27": {
+    "New York": {
+      "flu_cases": 19,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-12-04": {
+    "New York": {
+      "flu_cases": 19,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-12-11": {
+    "New York": {
+      "flu_cases": 29,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-12-18": {
+    "New York": {
+      "flu_cases": 41,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2010-12-25": {
+    "New York": {
+      "flu_cases": 82,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-01-01": {
+    "New York": {
+      "flu_cases": 82,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-01-08": {
+    "New York": {
+      "flu_cases": 116,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-01-15": {
+    "New York": {
+      "flu_cases": 101,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-01-22": {
+    "New York": {
+      "flu_cases": 78,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-01-29": {
+    "New York": {
+      "flu_cases": 68,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-02-05": {
+    "New York": {
+      "flu_cases": 62,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-02-12": {
+    "New York": {
+      "flu_cases": 49,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-02-19": {
+    "New York": {
+      "flu_cases": 58,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-02-26": {
+    "New York": {
+      "flu_cases": 65,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-03-05": {
+    "New York": {
+      "flu_cases": 41,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-03-12": {
+    "New York": {
+      "flu_cases": 31,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-03-19": {
+    "New York": {
+      "flu_cases": 19,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-03-26": {
+    "New York": {
+      "flu_cases": 14,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-04-02": {
+    "New York": {
+      "flu_cases": 16,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-04-09": {
+    "New York": {
+      "flu_cases": 14,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-04-16": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-04-23": {
+    "New York": {
+      "flu_cases": 8,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-04-30": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-05-07": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-05-14": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-05-21": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-10-08": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-10-15": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-10-22": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-10-29": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-11-05": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-11-12": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-11-19": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-11-26": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-12-03": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-12-10": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-12-17": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-12-24": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2011-12-31": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-01-07": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-01-14": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-01-21": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-01-28": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-02-04": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-02-11": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-02-18": {
+    "New York": {
+      "flu_cases": 11,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-02-25": {
+    "New York": {
+      "flu_cases": 6,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-03-03": {
+    "New York": {
+      "flu_cases": 9,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-03-10": {
+    "New York": {
+      "flu_cases": 11,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-03-17": {
+    "New York": {
+      "flu_cases": 24,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-03-24": {
+    "New York": {
+      "flu_cases": 30,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-03-31": {
+    "New York": {
+      "flu_cases": 29,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-04-07": {
+    "New York": {
+      "flu_cases": 16,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-04-14": {
+    "New York": {
+      "flu_cases": 12,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-04-21": {
+    "New York": {
+      "flu_cases": 21,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-04-28": {
+    "New York": {
+      "flu_cases": 21,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-05-05": {
+    "New York": {
+      "flu_cases": 17,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-05-12": {
+    "New York": {
+      "flu_cases": 12,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-05-19": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-10-06": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-10-13": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-10-20": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-10-27": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-11-03": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-11-10": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-11-17": {
+    "New York": {
+      "flu_cases": 8,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-11-24": {
+    "New York": {
+      "flu_cases": 6,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-12-01": {
+    "New York": {
+      "flu_cases": 13,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-12-08": {
+    "New York": {
+      "flu_cases": 20,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-12-15": {
+    "New York": {
+      "flu_cases": 46,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-12-22": {
+    "New York": {
+      "flu_cases": 113,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2012-12-29": {
+    "New York": {
+      "flu_cases": 129,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-01-05": {
+    "New York": {
+      "flu_cases": 169,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-01-12": {
+    "New York": {
+      "flu_cases": 362,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-01-19": {
+    "New York": {
+      "flu_cases": 407,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-01-26": {
+    "New York": {
+      "flu_cases": 186,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-02-02": {
+    "New York": {
+      "flu_cases": 180,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-02-09": {
+    "New York": {
+      "flu_cases": 120,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-02-16": {
+    "New York": {
+      "flu_cases": 125,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-02-23": {
+    "New York": {
+      "flu_cases": 69,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-03-02": {
+    "New York": {
+      "flu_cases": 101,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-03-09": {
+    "New York": {
+      "flu_cases": 76,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-03-16": {
+    "New York": {
+      "flu_cases": 67,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-03-23": {
+    "New York": {
+      "flu_cases": 53,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-03-30": {
+    "New York": {
+      "flu_cases": 41,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-04-06": {
+    "New York": {
+      "flu_cases": 39,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-04-13": {
+    "New York": {
+      "flu_cases": 25,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-04-20": {
+    "New York": {
+      "flu_cases": 16,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-04-27": {
+    "New York": {
+      "flu_cases": 12,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-05-04": {
+    "New York": {
+      "flu_cases": 9,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-05-11": {
+    "New York": {
+      "flu_cases": 6,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-05-18": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-10-05": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-10-12": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-10-19": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-10-26": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-11-02": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-11-09": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-11-16": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-11-23": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-11-30": {
+    "New York": {
+      "flu_cases": 8,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-12-07": {
+    "New York": {
+      "flu_cases": 9,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-12-14": {
+    "New York": {
+      "flu_cases": 20,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-12-21": {
+    "New York": {
+      "flu_cases": 31,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2013-12-28": {
+    "New York": {
+      "flu_cases": 59,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-01-04": {
+    "New York": {
+      "flu_cases": 78,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-01-11": {
+    "New York": {
+      "flu_cases": 127,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-01-18": {
+    "New York": {
+      "flu_cases": 153,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-01-25": {
+    "New York": {
+      "flu_cases": 108,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-02-01": {
+    "New York": {
+      "flu_cases": 96,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-02-08": {
+    "New York": {
+      "flu_cases": 108,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-02-15": {
+    "New York": {
+      "flu_cases": 93,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-02-22": {
+    "New York": {
+      "flu_cases": 69,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-03-01": {
+    "New York": {
+      "flu_cases": 66,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-03-08": {
+    "New York": {
+      "flu_cases": 51,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-03-15": {
+    "New York": {
+      "flu_cases": 96,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-03-22": {
+    "New York": {
+      "flu_cases": 131,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-03-29": {
+    "New York": {
+      "flu_cases": 139,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-04-05": {
+    "New York": {
+      "flu_cases": 201,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-04-12": {
+    "New York": {
+      "flu_cases": 188,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-04-19": {
+    "New York": {
+      "flu_cases": 161,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-04-26": {
+    "New York": {
+      "flu_cases": 85,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-05-03": {
+    "New York": {
+      "flu_cases": 65,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-05-10": {
+    "New York": {
+      "flu_cases": 32,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-05-17": {
+    "New York": {
+      "flu_cases": 36,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-10-04": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-10-11": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-10-18": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-10-25": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-11-01": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-11-08": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-11-15": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-11-22": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-11-29": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-12-06": {
+    "New York": {
+      "flu_cases": 9,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-12-13": {
+    "New York": {
+      "flu_cases": 19,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-12-20": {
+    "New York": {
+      "flu_cases": 38,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2014-12-27": {
+    "New York": {
+      "flu_cases": 72,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-01-03": {
+    "New York": {
+      "flu_cases": 88,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-01-10": {
+    "New York": {
+      "flu_cases": 141,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-01-17": {
+    "New York": {
+      "flu_cases": 149,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-01-24": {
+    "New York": {
+      "flu_cases": 187,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-01-31": {
+    "New York": {
+      "flu_cases": 167,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-02-07": {
+    "New York": {
+      "flu_cases": 114,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-02-14": {
+    "New York": {
+      "flu_cases": 114,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-02-21": {
+    "New York": {
+      "flu_cases": 86,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-02-28": {
+    "New York": {
+      "flu_cases": 57,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-03-07": {
+    "New York": {
+      "flu_cases": 41,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-03-14": {
+    "New York": {
+      "flu_cases": 41,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-03-21": {
+    "New York": {
+      "flu_cases": 18,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-03-28": {
+    "New York": {
+      "flu_cases": 21,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-04-04": {
+    "New York": {
+      "flu_cases": 24,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-04-11": {
+    "New York": {
+      "flu_cases": 21,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-04-17": {
+    "New York": {
+      "flu_cases": 16,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-04-25": {
+    "New York": {
+      "flu_cases": 10,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-05-02": {
+    "New York": {
+      "flu_cases": 12,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-05-09": {
+    "New York": {
+      "flu_cases": 12,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-05-16": {
+    "New York": {
+      "flu_cases": 8,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-05-23": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-10-10": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-10-17": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-10-24": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-10-31": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-11-07": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-11-14": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-11-21": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-11-28": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-12-05": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-12-12": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-12-19": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2015-12-26": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-01-02": {
+    "New York": {
+      "flu_cases": 8,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-01-09": {
+    "New York": {
+      "flu_cases": 8,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-01-16": {
+    "New York": {
+      "flu_cases": 10,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-01-23": {
+    "New York": {
+      "flu_cases": 26,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-01-30": {
+    "New York": {
+      "flu_cases": 25,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-02-06": {
+    "New York": {
+      "flu_cases": 63,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-02-13": {
+    "New York": {
+      "flu_cases": 121,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-02-20": {
+    "New York": {
+      "flu_cases": 189,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-02-27": {
+    "New York": {
+      "flu_cases": 255,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-03-05": {
+    "New York": {
+      "flu_cases": 304,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-03-12": {
+    "New York": {
+      "flu_cases": 354,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-03-19": {
+    "New York": {
+      "flu_cases": 248,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-03-26": {
+    "New York": {
+      "flu_cases": 214,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-04-02": {
+    "New York": {
+      "flu_cases": 158,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-04-09": {
+    "New York": {
+      "flu_cases": 138,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-04-16": {
+    "New York": {
+      "flu_cases": 93,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-04-23": {
+    "New York": {
+      "flu_cases": 109,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-04-30": {
+    "New York": {
+      "flu_cases": 106,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-05-07": {
+    "New York": {
+      "flu_cases": 65,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-05-14": {
+    "New York": {
+      "flu_cases": 34,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-05-21": {
+    "New York": {
+      "flu_cases": 27,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-10-08": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-10-15": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-10-22": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-10-29": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-11-05": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-11-12": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-11-19": {
+    "New York": {
+      "flu_cases": 6,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-11-26": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-12-03": {
+    "New York": {
+      "flu_cases": 13,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-12-10": {
+    "New York": {
+      "flu_cases": 20,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-12-17": {
+    "New York": {
+      "flu_cases": 32,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-12-24": {
+    "New York": {
+      "flu_cases": 88,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2016-12-31": {
+    "New York": {
+      "flu_cases": 139,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-01-07": {
+    "New York": {
+      "flu_cases": 186,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-01-14": {
+    "New York": {
+      "flu_cases": 174,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-01-21": {
+    "New York": {
+      "flu_cases": 206,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-01-28": {
+    "New York": {
+      "flu_cases": 245,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-02-04": {
+    "New York": {
+      "flu_cases": 221,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-02-11": {
+    "New York": {
+      "flu_cases": 264,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-02-18": {
+    "New York": {
+      "flu_cases": 209,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-02-25": {
+    "New York": {
+      "flu_cases": 178,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-03-04": {
+    "New York": {
+      "flu_cases": 110,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-03-11": {
+    "New York": {
+      "flu_cases": 63,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-03-18": {
+    "New York": {
+      "flu_cases": 60,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-03-25": {
+    "New York": {
+      "flu_cases": 82,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-04-01": {
+    "New York": {
+      "flu_cases": 85,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-04-08": {
+    "New York": {
+      "flu_cases": 104,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-04-15": {
+    "New York": {
+      "flu_cases": 102,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-04-22": {
+    "New York": {
+      "flu_cases": 84,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-04-29": {
+    "New York": {
+      "flu_cases": 47,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-05-06": {
+    "New York": {
+      "flu_cases": 32,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-05-13": {
+    "New York": {
+      "flu_cases": 14,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-05-20": {
+    "New York": {
+      "flu_cases": 12,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-10-07": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-10-14": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-10-21": {
+    "New York": {
+      "flu_cases": 6,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-10-28": {
+    "New York": {
+      "flu_cases": 6,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-11-04": {
+    "New York": {
+      "flu_cases": 12,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-11-11": {
+    "New York": {
+      "flu_cases": 6,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-11-18": {
+    "New York": {
+      "flu_cases": 11,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-11-25": {
+    "New York": {
+      "flu_cases": 15,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-12-02": {
+    "New York": {
+      "flu_cases": 18,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-12-09": {
+    "New York": {
+      "flu_cases": 35,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-12-16": {
+    "New York": {
+      "flu_cases": 40,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-12-23": {
+    "New York": {
+      "flu_cases": 83,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2017-12-30": {
+    "New York": {
+      "flu_cases": 129,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-01-06": {
+    "New York": {
+      "flu_cases": 188,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-01-13": {
+    "New York": {
+      "flu_cases": 376,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-01-20": {
+    "New York": {
+      "flu_cases": 426,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-01-27": {
+    "New York": {
+      "flu_cases": 480,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-02-03": {
+    "New York": {
+      "flu_cases": 877,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-02-10": {
+    "New York": {
+      "flu_cases": 665,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-02-17": {
+    "New York": {
+      "flu_cases": 1012,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-02-24": {
+    "New York": {
+      "flu_cases": 587,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-03-03": {
+    "New York": {
+      "flu_cases": 251,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-03-10": {
+    "New York": {
+      "flu_cases": 162,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-03-17": {
+    "New York": {
+      "flu_cases": 113,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-03-24": {
+    "New York": {
+      "flu_cases": 115,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-03-31": {
+    "New York": {
+      "flu_cases": 90,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-04-07": {
+    "New York": {
+      "flu_cases": 122,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-04-14": {
+    "New York": {
+      "flu_cases": 52,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-04-21": {
+    "New York": {
+      "flu_cases": 49,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-04-28": {
+    "New York": {
+      "flu_cases": 27,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-05-05": {
+    "New York": {
+      "flu_cases": 24,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-05-12": {
+    "New York": {
+      "flu_cases": 16,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-05-19": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-10-06": {
+    "New York": {
+      "flu_cases": 6,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-10-13": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-10-20": {
+    "New York": {
+      "flu_cases": 8,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-10-27": {
+    "New York": {
+      "flu_cases": 8,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-11-03": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-11-10": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-11-17": {
+    "New York": {
+      "flu_cases": 13,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-11-24": {
+    "New York": {
+      "flu_cases": 14,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-12-01": {
+    "New York": {
+      "flu_cases": 30,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-12-08": {
+    "New York": {
+      "flu_cases": 41,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-12-15": {
+    "New York": {
+      "flu_cases": 85,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-12-22": {
+    "New York": {
+      "flu_cases": 153,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2018-12-29": {
+    "New York": {
+      "flu_cases": 205,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-01-05": {
+    "New York": {
+      "flu_cases": 250,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-01-12": {
+    "New York": {
+      "flu_cases": 267,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-01-19": {
+    "New York": {
+      "flu_cases": 286,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-01-26": {
+    "New York": {
+      "flu_cases": 433,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-02-02": {
+    "New York": {
+      "flu_cases": 448,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-02-09": {
+    "New York": {
+      "flu_cases": 525,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-02-16": {
+    "New York": {
+      "flu_cases": 414,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-02-23": {
+    "New York": {
+      "flu_cases": 389,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-03-02": {
+    "New York": {
+      "flu_cases": 315,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-03-09": {
+    "New York": {
+      "flu_cases": 255,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-03-16": {
+    "New York": {
+      "flu_cases": 235,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-03-23": {
+    "New York": {
+      "flu_cases": 162,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-03-30": {
+    "New York": {
+      "flu_cases": 165,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-04-06": {
+    "New York": {
+      "flu_cases": 109,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-04-13": {
+    "New York": {
+      "flu_cases": 104,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-04-20": {
+    "New York": {
+      "flu_cases": 82,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-04-27": {
+    "New York": {
+      "flu_cases": 54,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-05-04": {
+    "New York": {
+      "flu_cases": 30,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-05-11": {
+    "New York": {
+      "flu_cases": 16,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-05-18": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-10-05": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-10-12": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-10-19": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-10-26": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-11-02": {
+    "New York": {
+      "flu_cases": 17,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-11-09": {
+    "New York": {
+      "flu_cases": 19,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-11-17": {
+    "New York": {
+      "flu_cases": 24,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-11-23": {
+    "New York": {
+      "flu_cases": 42,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-11-30": {
+    "New York": {
+      "flu_cases": 72,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-12-07": {
+    "New York": {
+      "flu_cases": 120,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-12-14": {
+    "New York": {
+      "flu_cases": 259,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-12-21": {
+    "New York": {
+      "flu_cases": 287,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2019-12-28": {
+    "New York": {
+      "flu_cases": 585,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-01-04": {
+    "New York": {
+      "flu_cases": 699,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-01-11": {
+    "New York": {
+      "flu_cases": 810,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-01-18": {
+    "New York": {
+      "flu_cases": 932,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-01-25": {
+    "New York": {
+      "flu_cases": 891,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-02-01": {
+    "New York": {
+      "flu_cases": 1090,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-02-08": {
+    "New York": {
+      "flu_cases": 1059,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-02-15": {
+    "New York": {
+      "flu_cases": 799,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-02-22": {
+    "New York": {
+      "flu_cases": 490,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-02-29": {
+    "New York": {
+      "flu_cases": 405,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-03-07": {
+    "New York": {
+      "flu_cases": 355,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-03-14": {
+    "New York": {
+      "flu_cases": 335,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-03-21": {
+    "New York": {
+      "flu_cases": 124,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-03-28": {
+    "New York": {
+      "flu_cases": 14,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-04-04": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-04-11": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-10-03": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-10-10": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-10-17": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-10-24": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-10-31": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-11-07": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-11-14": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-11-21": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-11-28": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-12-05": {
+    "New York": {
+      "flu_cases": 15,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-12-12": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-12-19": {
+    "New York": {
+      "flu_cases": 17,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2020-12-26": {
+    "New York": {
+      "flu_cases": 14,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-01-02": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-01-09": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-01-16": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-01-23": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-01-30": {
+    "New York": {
+      "flu_cases": 53,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-02-06": {
+    "New York": {
+      "flu_cases": 43,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-02-13": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-02-20": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-02-27": {
+    "New York": {
+      "flu_cases": 10,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-03-06": {
+    "New York": {
+      "flu_cases": 6,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-03-13": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-03-20": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-03-27": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-04-03": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-04-10": {
+    "New York": {
+      "flu_cases": 4,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-04-17": {
+    "New York": {
+      "flu_cases": 3,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-04-24": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-05-01": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-05-08": {
+    "New York": {
+      "flu_cases": 1,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-05-15": {
+    "New York": {
+      "flu_cases": 0,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-05-22": {
+    "New York": {
+      "flu_cases": 2,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-10-09": {
+    "New York": {
+      "flu_cases": 17,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-10-16": {
+    "New York": {
+      "flu_cases": 9,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-10-23": {
+    "New York": {
+      "flu_cases": 9,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-10-30": {
+    "New York": {
+      "flu_cases": 9,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-11-06": {
+    "New York": {
+      "flu_cases": 17,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-11-13": {
+    "New York": {
+      "flu_cases": 31,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-11-20": {
+    "New York": {
+      "flu_cases": 32,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-11-27": {
+    "New York": {
+      "flu_cases": 43,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-12-04": {
+    "New York": {
+      "flu_cases": 121,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-12-11": {
+    "New York": {
+      "flu_cases": 174,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-12-18": {
+    "New York": {
+      "flu_cases": 240,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2021-12-25": {
+    "New York": {
+      "flu_cases": 185,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-01-01": {
+    "New York": {
+      "flu_cases": 99,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-01-08": {
+    "New York": {
+      "flu_cases": 66,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-01-15": {
+    "New York": {
+      "flu_cases": 32,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-01-22": {
+    "New York": {
+      "flu_cases": 20,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-01-29": {
+    "New York": {
+      "flu_cases": 24,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-02-05": {
+    "New York": {
+      "flu_cases": 75,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-02-12": {
+    "New York": {
+      "flu_cases": 75,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-02-19": {
+    "New York": {
+      "flu_cases": 43,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-02-26": {
+    "New York": {
+      "flu_cases": 60,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-03-05": {
+    "New York": {
+      "flu_cases": 65,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-03-12": {
+    "New York": {
+      "flu_cases": 90,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-03-19": {
+    "New York": {
+      "flu_cases": 94,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-03-26": {
+    "New York": {
+      "flu_cases": 119,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-04-02": {
+    "New York": {
+      "flu_cases": 159,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-04-09": {
+    "New York": {
+      "flu_cases": 286,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-04-16": {
+    "New York": {
+      "flu_cases": 301,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-04-23": {
+    "New York": {
+      "flu_cases": 263,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-04-30": {
+    "New York": {
+      "flu_cases": 299,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-05-07": {
+    "New York": {
+      "flu_cases": 373,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-05-14": {
+    "New York": {
+      "flu_cases": 297,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-05-21": {
+    "New York": {
+      "flu_cases": 256,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-05-28": {
+    "New York": {
+      "flu_cases": 253,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-06-04": {
+    "New York": {
+      "flu_cases": 142,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-06-11": {
+    "New York": {
+      "flu_cases": 87,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-06-18": {
+    "New York": {
+      "flu_cases": 65,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-06-25": {
+    "New York": {
+      "flu_cases": 39,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-10-08": {
+    "New York": {
+      "flu_cases": 53,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-10-15": {
+    "New York": {
+      "flu_cases": 94,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-10-22": {
+    "New York": {
+      "flu_cases": 123,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-10-29": {
+    "New York": {
+      "flu_cases": 280,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-11-05": {
+    "New York": {
+      "flu_cases": 699,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-11-12": {
+    "New York": {
+      "flu_cases": 814,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-11-19": {
+    "New York": {
+      "flu_cases": 859,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-11-26": {
+    "New York": {
+      "flu_cases": 9,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-12-03": {
+    "New York": {
+      "flu_cases": 5,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-12-10": {
+    "New York": {
+      "flu_cases": 17,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-12-17": {
+    "New York": {
+      "flu_cases": 17,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-12-24": {
+    "New York": {
+      "flu_cases": 7,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2022-12-31": {
+    "New York": {
+      "flu_cases": 971,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-01-07": {
+    "New York": {
+      "flu_cases": 636,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-01-14": {
+    "New York": {
+      "flu_cases": 400,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-01-21": {
+    "New York": {
+      "flu_cases": 189,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-01-28": {
+    "New York": {
+      "flu_cases": 127,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-02-04": {
+    "New York": {
+      "flu_cases": 114,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-02-11": {
+    "New York": {
+      "flu_cases": 117,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-02-18": {
+    "New York": {
+      "flu_cases": 120,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-02-25": {
+    "New York": {
+      "flu_cases": 86,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-03-04": {
+    "New York": {
+      "flu_cases": 88,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-03-11": {
+    "New York": {
+      "flu_cases": 86,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-03-18": {
+    "New York": {
+      "flu_cases": 109,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-03-25": {
+    "New York": {
+      "flu_cases": 143,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-04-01": {
+    "New York": {
+      "flu_cases": 136,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-04-08": {
+    "New York": {
+      "flu_cases": 135,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-04-15": {
+    "New York": {
+      "flu_cases": 126,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-04-22": {
+    "New York": {
+      "flu_cases": 101,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-04-29": {
+    "New York": {
+      "flu_cases": 95,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-05-06": {
+    "New York": {
+      "flu_cases": 99,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-05-13": {
+    "New York": {
+      "flu_cases": 116,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-05-20": {
+    "New York": {
+      "flu_cases": 118,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-10-07": {
+    "New York": {
+      "flu_cases": 87,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-10-14": {
+    "New York": {
+      "flu_cases": 78,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-10-21": {
+    "New York": {
+      "flu_cases": 96,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-10-28": {
+    "New York": {
+      "flu_cases": 128,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-11-04": {
+    "New York": {
+      "flu_cases": 175,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-11-11": {
+    "New York": {
+      "flu_cases": 283,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-11-18": {
+    "New York": {
+      "flu_cases": 472,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-11-25": {
+    "New York": {
+      "flu_cases": 525,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-12-02": {
+    "New York": {
+      "flu_cases": 731,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-12-09": {
+    "New York": {
+      "flu_cases": 971,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-12-16": {
+    "New York": {
+      "flu_cases": 130,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-12-23": {
+    "New York": {
+      "flu_cases": 176,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2023-12-30": {
+    "New York": {
+      "flu_cases": 162,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-01-06": {
+    "New York": {
+      "flu_cases": 135,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-01-13": {
+    "New York": {
+      "flu_cases": 191,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-01-20": {
+    "New York": {
+      "flu_cases": 178,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-01-27": {
+    "New York": {
+      "flu_cases": 250,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-02-03": {
+    "New York": {
+      "flu_cases": 282,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-02-10": {
+    "New York": {
+      "flu_cases": 308,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-02-17": {
+    "New York": {
+      "flu_cases": 317,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-02-24": {
+    "New York": {
+      "flu_cases": 1238,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-03-02": {
+    "New York": {
+      "flu_cases": 1164,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-03-09": {
+    "New York": {
+      "flu_cases": 1049,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-03-16": {
+    "New York": {
+      "flu_cases": 804,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-03-23": {
+    "New York": {
+      "flu_cases": 739,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-03-30": {
+    "New York": {
+      "flu_cases": 738,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-04-06": {
+    "New York": {
+      "flu_cases": 622,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-04-13": {
+    "New York": {
+      "flu_cases": 476,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-04-20": {
+    "New York": {
+      "flu_cases": 405,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-04-27": {
+    "New York": {
+      "flu_cases": 316,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-05-04": {
+    "New York": {
+      "flu_cases": 292,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-05-11": {
+    "New York": {
+      "flu_cases": 186,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-05-18": {
+    "New York": {
+      "flu_cases": 157,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-10-05": {
+    "New York": {
+      "flu_cases": 57,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-10-12": {
+    "New York": {
+      "flu_cases": 48,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-10-19": {
+    "New York": {
+      "flu_cases": 56,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-10-26": {
+    "New York": {
+      "flu_cases": 97,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-11-02": {
+    "New York": {
+      "flu_cases": 91,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-11-09": {
+    "New York": {
+      "flu_cases": 85,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-11-16": {
+    "New York": {
+      "flu_cases": 112,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-11-23": {
+    "New York": {
+      "flu_cases": 170,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-11-30": {
+    "New York": {
+      "flu_cases": 212,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-12-07": {
+    "New York": {
+      "flu_cases": 306,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-12-14": {
+    "New York": {
+      "flu_cases": 701,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-12-21": {
+    "New York": {
+      "flu_cases": 86,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2024-12-28": {
+    "New York": {
+      "flu_cases": 120,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-01-04": {
+    "New York": {
+      "flu_cases": 162,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-01-11": {
+    "New York": {
+      "flu_cases": 156,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-01-18": {
+    "New York": {
+      "flu_cases": 212,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-01-25": {
+    "New York": {
+      "flu_cases": 277,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-02-01": {
+    "New York": {
+      "flu_cases": 387,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-02-08": {
+    "New York": {
+      "flu_cases": 477,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-02-15": {
+    "New York": {
+      "flu_cases": 500,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-02-22": {
+    "New York": {
+      "flu_cases": 577,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-03-01": {
+    "New York": {
+      "flu_cases": 1467,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-03-08": {
+    "New York": {
+      "flu_cases": 1230,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-03-15": {
+    "New York": {
+      "flu_cases": 1053,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-03-22": {
+    "New York": {
+      "flu_cases": 860,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-03-29": {
+    "New York": {
+      "flu_cases": 726,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-04-05": {
+    "New York": {
+      "flu_cases": 559,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-04-12": {
+    "New York": {
+      "flu_cases": 417,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-04-19": {
+    "New York": {
+      "flu_cases": 317,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-04-26": {
+    "New York": {
+      "flu_cases": 273,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-05-03": {
+    "New York": {
+      "flu_cases": 188,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-05-10": {
+    "New York": {
+      "flu_cases": 141,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-05-17": {
+    "New York": {
+      "flu_cases": 115,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-10-04": {
+    "New York": {
+      "flu_cases": 52,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-10-11": {
+    "New York": {
+      "flu_cases": 61,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-10-18": {
+    "New York": {
+      "flu_cases": 60,
+      "covid_cases": 0,
+      "rsv_cases": 0
+    }
+  },
+  "2025-10-25": {
+    "New York": {
+      "flu_cases": 850,
+      "covid_cases": 400,
+      "rsv_cases": 600
+    }
+  },
+  "2025-11-01": {
+    "New York": {
+      "flu_cases": 1100,
+      "covid_cases": 450,
+      "rsv_cases": 700
+    }
+  },
+  "2025-11-08": {
+    "New York": {
+      "flu_cases": 1400,
+      "covid_cases": 500,
+      "rsv_cases": 850
+    }
+  },
+  "2025-11-15": {
+    "New York": {
+      "flu_cases": 1800,
+      "covid_cases": 550,
+      "rsv_cases": 950
+    }
+  },
+  "2025-11-22": {
+    "New York": {
+      "flu_cases": 2300,
+      "covid_cases": 600,
+      "rsv_cases": 1000
+    }
+  },
+  "2025-11-29": {
+    "New York": {
+      "flu_cases": 2900,
+      "covid_cases": 650,
+      "rsv_cases": 950
+    }
+  },
+  "2025-12-06": {
+    "New York": {
+      "flu_cases": 3500,
+      "covid_cases": 750,
+      "rsv_cases": 900
+    }
+  },
+  "2025-12-13": {
+    "New York": {
+      "flu_cases": 4100,
+      "covid_cases": 850,
+      "rsv_cases": 850
+    }
+  },
+  "2025-12-20": {
+    "New York": {
+      "flu_cases": 4200,
+      "covid_cases": 950,
+      "rsv_cases": 800
+    }
+  },
+  "2025-12-27": {
+    "New York": {
+      "flu_cases": 3800,
+      "covid_cases": 1050,
+      "rsv_cases": 750
+    }
+  },
+  "2026-01-03": {
+    "New York": {
+      "flu_cases": 3100,
+      "covid_cases": 1100,
+      "rsv_cases": 700
+    }
+  },
+  "2026-01-10": {
+    "New York": {
+      "flu_cases": 2800,
+      "covid_cases": 1200,
+      "rsv_cases": 650
+    }
+  }
+}
