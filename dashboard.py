@@ -70,9 +70,13 @@ try:
     min_date = df["Date"].min()
     max_date = df["Date"].max()
     
+from datetime import timedelta
+    
+    one_year_ago = max_date - timedelta(days=365)
+    
     date_range = st.date_input(
         "Select date range to analyze:",
-        value=(min_date, max_date),
+        value=(one_year_ago, max_date),
         min_value=min_date,
         max_value=max_date
     )
@@ -128,3 +132,4 @@ except FileNotFoundError:
     st.error("Error: respiratory_data.json not found")
 except Exception as e:
     st.error("Error: " + str(e))
+
